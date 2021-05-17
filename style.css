@@ -1,0 +1,176 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header *{
+    display: inline;
+    text-align:right;
+    padding-left: 4px;
+    padding-right: 4px;
+
+}
+
+.banner{
+    background-image: url("banner.jpg");
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    
+}
+.button {
+    background-color: skyblue;
+    padding: 9px 22px 8px 20px;
+    color: white;
+}
+.content{
+    padding-top: 40px;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+}
+.para1{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+   
+
+}
+.our-services{
+    padding-top: 20px;
+    background-color: orange;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    margin-top: 63px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    
+  }
+  
+  
+  .row {margin: 0 -5px;}
+  
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .icon::before{
+font-family: fontawesome;
+font-size: 40px;
+  }
+  .card{
+      text-align: center;
+     margin-left: 25px;
+  }
+  .class1{
+      padding-top: 50px;
+      padding-left: 250px;
+
+  }
+  .column1{
+   float: center;
+    width: 25%;
+    
+  }
+  .crm{
+      padding-left: 25px;
+      display: table-row;
+  }
+  .design{
+      margin-left: 40px;
+  }
+  .contact {
+    background-color: skyblue;
+    margin-top: 25px;
+    text-align: center;
+    padding-left: 574px;
+}
+  ul.connect-social-media li i {
+    padding: 10px;
+    background:white;
+    color: brown;
+    border-radius: 50%;
+    width: 20px;
+    margin-right: 15px;
+}
+    
+}
+.social{
+    display: inline-block;
+}
+
+.para4 ul li{
+    display: inline-block;
+    padding: 30px;
+}
+.para4{
+    background-color: black;
+   text-align: center;
+   color: white;
+   padding-bottom: 30px;
+   margin-top: -16px;
+   
+}
+.anchor{
+    text-align: center;
+    color: white;
+}
+ul.connect-social-media {
+    display: inline-flex;
+    padding: 1px;
+}
+section.our-services {
+    padding-left: 323px;
+}
+.top{
+    padding-top: 35px;
+}
+.class-services {
+   
+    padding-right: 368px;
+}
+.text{
+    padding-left: 200px
+}
+.nav{
+    padding-right: 200px;
+}
+.footer ul li{
+    display: inline-block;
+}
+ul{
+    list-style-type: none;
+}
+.logo{
+    width: 20%;
+    float: left;
+    font-size: 20px;
+}
+.nav{
+   float: right;
+    width: 20%;
+    
+}
+.logon{
+    background-color: gray;
+}
+a{
+    color:black;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+ul.connect-social-media li i:hover {
+    color: cadetblue;
+    background-color: coral;
+
+}
